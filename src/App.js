@@ -14,7 +14,6 @@ if(item.length<3){
 
 }
     return(<>
-<h1>Basic form validation</h1>
 <form>
 <input type="text" placeholder="enter user name" onChange={handleUser}></input> <br></br>
 
